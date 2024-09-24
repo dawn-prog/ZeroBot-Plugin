@@ -60,7 +60,7 @@ import (
 	//               vvvvvvvvvvvvvv中优先级区vvvvvvvvvvvvvv               //
 	//                      vvvvvvv中优先级区vvvvvvv                      //
 	//                          vvvvvvvvvvvvvv                          //
-	//                               vvvv                               //
+	//                               vvvvv                               //
 
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/ahsai"            // ahsai tts
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/aifalse"          // 服务器监控
